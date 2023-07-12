@@ -5,5 +5,5 @@
 
 
 
-Desenvolvimento de Jogo da velha 
+Desenvolvimento de Jogo da velha em JAVA
 
